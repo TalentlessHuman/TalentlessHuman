@@ -66,13 +66,13 @@
 
 <div align="left">
 
-<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="30" title="GitHub"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" title="LinkedIn"/></a> &nbsp;
-<a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" height="30" title="Instagram"/></a> &nbsp;
-<a href="https://www.facebook.com/TalentlessB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" height="30" title="Facebook"/></a> &nbsp;
-<a href="https://www.youtube.com/@imx-bikram" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" height="30" title="YouTube"/></a> &nbsp;
-<a href="https://twitter.com/@BikramSorenWPTH" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" height="30" title="X (Twitter)"/></a> &nbsp;
-<a href="https://wa.me/918016522251" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="30" title="WhatsApp"/></a> &nbsp;
+<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" height="30" title="GitHub"/></a> <img width="18" />
+<a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" title="LinkedIn"/></a> <img width="18" />
+<a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" height="30" title="Instagram"/></a> <img width="18" />
+<a href="https://www.facebook.com/TalentlessB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" height="30" title="Facebook"/></a> <img width="18" />
+<a href="https://www.youtube.com/@imx-bikram" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" height="30" title="YouTube"/></a> <img width="18" />
+<a href="https://twitter.com/@BikramSorenWPTH" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" height="30" title="X (Twitter)"/></a> <img width="18" />
+<a href="https://wa.me/918016522251" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" height="30" title="WhatsApp"/></a> <img width="18" />
 <a href="mailto:bikramsoren222@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" height="30" title="Gmail"/></a>
 
 </div>
