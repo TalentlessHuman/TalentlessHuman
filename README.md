@@ -93,6 +93,15 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" alt="X" height="35px">
 </a>
 <img width="18" />
+<a href="https://wa.me/918016522251" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/whatsapp.svg" alt="WhatsApp" height="25px">
+</a>
+<img width="18" />
+<a href="mailto:bikramsoren222@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" alt="Gmail" height="25px">
+</a>
+
+
 
 
 </div>
