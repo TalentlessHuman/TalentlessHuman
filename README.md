@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(to right, #ffecd2, #fcb69f); padding: 25px; border-radius: 12px;">
+
 <h2 align="left">Hi 👋! I'm <span style="color:#f39c12;">Bikram 😎</span>, a Passionate Developer 💻 from 🇮🇳 India</h2>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
@@ -83,3 +85,4 @@
 ⭐️ *Thanks for stopping by! Let’s collaborate and build something awesome together!*  
 🧠 *Always open to learning, sharing, and innovation.*
 
+</div>
