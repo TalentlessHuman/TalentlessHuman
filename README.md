@@ -4,7 +4,7 @@
 
 <img align="right" height="150" radius="25%" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-###
+### My Skills
 My Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
