@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bikram 😎 and I'm a Developer 💻, from India 🇮🇳.</h2>
+<h2 align="left">Hi 👋! My name is Bikram 😎 and I'm a Developer 💻, from India <img src="https://flagcdn.com/w40/in.png" height="20" alt="India flag" />.</h2>
 
 ###
 
