@@ -59,6 +59,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Terminal logo" />
 <img width="12" />
+<img src="https://cdn-icons-png.flaticon.com/512/3039/3039437.png" height="30" alt="Sniper logo" />
+
 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /> -->
 </div>
