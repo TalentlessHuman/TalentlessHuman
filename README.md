@@ -39,7 +39,7 @@
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="30" alt="MS Excel logo" style="filter: invert(23%) sepia(85%) saturate(1900%) hue-rotate(90deg) brightness(95%) contrast(98%);" />
 <img width="12" />
@@ -68,7 +68,7 @@
 <div align="left">
 
 <a href="https://github.com/TalentlessHuman" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" height="35px">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" height="35px" />
 </a>
 <img width="12" />
 <a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank">
