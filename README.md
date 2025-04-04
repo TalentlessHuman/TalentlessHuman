@@ -2,10 +2,10 @@
 
 <h2 align="left">Hi 👋! I'm <span style="color:#f39c12;">Bikram 😎</span>, a Passionate Developer 💻 from India <img src="https://flagcdn.com/w40/in.png" height="20" alt="India flag" /></h2>
 
-<img align="right" padding="25" height="400" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+
 
 ---
-
+<img align="right" padding="25" height="400" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 ### 🚀 My Tech Toolbox
 
 <div align="left">
