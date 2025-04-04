@@ -84,23 +84,24 @@
 <!--   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /> -->
 <!-- </a> -->
 <a href="https://github.com/TalentlessHuman" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub">
-            </a>
-            <a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="Instagram">
-            </a>
-            <a href="https://www.facebook.com/TalentlessB" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" alt="Facebook">
-            </a>
-            <a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn">
-            </a>
-            <a href="https://www.youtube.com/@imx-bikram" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" alt="YouTube">
-            </a>
-            <a href="https://twitter.com/@BikramSorenWPTH" target="_blank">
-              <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" alt="X">
-            </a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" height="25px">
+</a>
+<a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="Instagram" height="25px">
+</a>
+<a href="https://www.facebook.com/TalentlessB" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" alt="Facebook" height="25px">
+</a>
+<a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="25px">
+</a>
+<a href="https://www.youtube.com/@imx-bikram" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" alt="YouTube" height="25px">
+</a>
+<a href="https://twitter.com/@BikramSorenWPTH" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" alt="X" height="25px">
+</a>
+
 
 </div>
 
