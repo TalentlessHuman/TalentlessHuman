@@ -49,6 +49,7 @@
 <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" title="R"/></a>
 
 <br/>
+
 💻 **Operating Systems I Use:**<br/>
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" title="Windows"/></a>
 <img width="12" />
