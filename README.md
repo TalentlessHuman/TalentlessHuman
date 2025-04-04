@@ -8,6 +8,7 @@
 
 <div align="left">
 <br/>
+  
 🎨 **Frontend:**<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5"/></a>
 <img width="12" />
