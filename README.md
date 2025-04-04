@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" radius="25%" src="https://instagram.fdel29-1.fna.fbcdn.net/v/t51.2885-19/488625124_1207604167602038_7188657994812372547_n.jpg?_nc_ht=instagram.fdel29-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2QE6G7Yck_yp_IrP2ncU4UokI3DGUdvp6snsa1v771DnNKdx_I0TWfi-I5ZBAEFxkWU&_nc_ohc=KPRqMRgBWgsQ7kNvwH0gSXy&_nc_gid=86YsgmMIH0eDhFIroZNwmQ&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AYEmPehKywAsrbF1-c3zDEqoKzS2ZbbpIrK7JInyT6-ZJQ&oe=67F60C9E&_nc_sid=7d3ac5"/>
+<img align="right" height="150" radius="25%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-programming&psig=AOvVaw06YKLwNy9JgAiORKLyB4eA&ust=1743889045282000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiw5ourv4wDFQAAAAAdAAAAABAZ"/>
 
 ###
 
