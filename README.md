@@ -72,27 +72,27 @@
 <a href="https://github.com/TalentlessHuman" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" alt="GitHub" height="35px" />
 </a>
-<img width="12" />
+<img width="18" />
 <a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" alt="Instagram" height="35px">
 </a>
-<img width="12" />
+<img width="18" />
 <a href="https://www.facebook.com/TalentlessB" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" alt="Facebook" height="35px">
 </a>
-<img width="12" />
+<img width="18" />
 <a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="35px">
 </a>
-<img width="12" />
+<img width="18" />
 <a href="https://www.youtube.com/@imx-bikram" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/youtube.svg" alt="YouTube" height="35px">
 </a>
-<img width="12" />
+<img width="18" />
 <a href="https://twitter.com/@BikramSorenWPTH" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/x.svg" alt="X" height="35px">
 </a>
-<img width="12" />
+<img width="18" />
 
 
 </div>
