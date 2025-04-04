@@ -60,9 +60,9 @@
 <a href="https://ubuntu.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" title="Ubuntu"/></a>
 <img width="12" />
 <a href="https://www.kali.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" title="Kali Linux"/></a>
-<br/>
+<br/><br/>
 </div>
-<br/>
+
 ---
 
 ### 📬 Let's Connect!
