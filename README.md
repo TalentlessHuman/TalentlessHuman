@@ -7,7 +7,7 @@
 ### 🚀 My Tech Toolbox
 
 <div align="left">
-
+<br/>
 🎨 **Frontend:**<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="HTML5"/></a>
 <img width="12" />
@@ -17,7 +17,7 @@
 <img width="12" />
 <a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React"/></a>
 
-<br/><br/>
+<br/>
 
 🛠️ **Backend & Database:**<br/>
 <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" title="Node.js"/></a>
@@ -34,7 +34,7 @@
 <img width="12" />
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="30" title="MS Excel" style="filter: invert(23%) sepia(85%) saturate(1900%) hue-rotate(90deg) brightness(95%) contrast(98%);" /></a>
 
-<br/><br/>
+<br/>
 
 🐍 **Programming Languages:**<br/>
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/></a>
@@ -47,8 +47,7 @@
 <img width="12" />
 <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" title="R"/></a>
 
-<br/><br/>
-
+<br/>
 💻 **Operating Systems I Use:**<br/>
 <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" title="Windows"/></a>
 <img width="12" />
