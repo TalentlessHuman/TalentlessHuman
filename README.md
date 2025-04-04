@@ -1,6 +1,6 @@
 <div style="background: linear-gradient(to right, #ffecd2, #fcb69f); padding: 25px; border-radius: 12px;">
 
-<h2 align="left">Hi 👋! I'm <span style="color:#f39c12;">Bikram 😎</span>, a Passionate Developer 💻 from 🇮🇳 India</h2>
+<h2 align="left">Hi 👋! I'm <span style="color:#f39c12;">Bikram 😎</span>, a Passionate Developer 💻 from India <img src="https://flagcdn.com/w40/in.png" height="20" alt="India flag" /></h2>
 
 <img align="right" height="150" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
@@ -60,7 +60,7 @@
 <a href="https://ubuntu.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" title="Ubuntu"/></a>
 <img width="12" />
 <a href="https://www.kali.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="30" title="Kali Linux"/></a>
-
+<br/>
 </div>
 
 ---
