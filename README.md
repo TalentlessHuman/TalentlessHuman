@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" radius="25%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-programming&psig=AOvVaw06YKLwNy9JgAiORKLyB4eA&ust=1743889045282000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKiw5ourv4wDFQAAAAAdAAAAABAZ"/>
+<img align="right" height="150" radius="25%" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 ###
 
