@@ -6,7 +6,7 @@
 
 <h3>🚀 My Tech Toolbox</h3>
 
-<img align="right" height="280" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" height="299" src="https://media0.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=6c09b952kuecqyit10muwm7h1hl4d4tla074jiwcqpi719ds&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <div align="left">
 <br/>
