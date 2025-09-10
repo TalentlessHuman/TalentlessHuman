@@ -52,7 +52,7 @@
 <h3>📬 Let's Connect!</h3>
 
 <div align="left">
-<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" style="height:22px; width:22px;" /></a><img width="18" />
+<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" style="height:22px; width:22px;" /></a><img width="28" />
 <a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://www.facebook.com/TalentlessB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" style="height:22px; width:22px;" /></a><img width="18" />
