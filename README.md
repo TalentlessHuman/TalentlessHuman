@@ -12,7 +12,7 @@
 <br/>
 
 🎨 <b>Frontend:</b><br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:22px; width:22px;" /></a><img width="50" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://reactjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:22px; width:22px;" /></a>
@@ -52,7 +52,7 @@
 <h3>📬 Let's Connect!</h3>
 
 <div align="left">
-<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" style="height:22px; width:22px;" /></a><img width="28" />
+<a href="https://github.com/TalentlessHuman" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://www.linkedin.com/in/bikram-soren-9260ba254" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://www.instagram.com/bikram.tathastu?igsh=emR6ZzAyenoyaGN2" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg" style="height:22px; width:22px;" /></a><img width="18" />
 <a href="https://www.facebook.com/TalentlessB" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/facebook.svg" style="height:22px; width:22px;" /></a><img width="18" />
